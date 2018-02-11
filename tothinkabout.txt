@@ -1,0 +1,20 @@
+Other things worth thinking about:
+
+Logging 
+(when, where, what library (sfl4j, log4j2, etc.), remote logging (papertrail, etc.))
+
+Error handling best practices 
+(catching exceptions, logging errors, http response in the event of an error)
+
+Database security
+(users, groups, access, encryption, etc.)
+
+Secret storage and security
+(Hashicorp Vault, Java Keystores, etc.)
+
+Microservice message queues
+
+Additional API input validation 
+(trim()ing string inputs, checking emails and phone numbers against RFC standards, etc.)
+
+How to securely generate password reset links, sms codes, account secrets, password salt, etc.

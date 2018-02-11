@@ -1,0 +1,6 @@
+sparkmail/ParseJsonTests.class
+sparkmail/BuildJsonErrorMessageTests.class
+sparkmail/UnmarshallJsonTests.class
+sparkmail/ParseBearerTokenTests.class
+sparkmail/CheckAndDecodeJWTTests.class
+sparkmail/UnmarshallJsonTests$TestData.class
